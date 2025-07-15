@@ -2,10 +2,20 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .page-body{
     display:flex;
     flex-direction: column;
     background-color: #59875fd8;
+}
+
+.navigation-bar{
+    display:flex;
+    justify-content: space-around;
+    color: white;
+    padding:20px;
+    font-size: 15px;
+    font-weight: 500;
 }
