@@ -21,3 +21,11 @@
     background-color:#2b5130d8;
 }
 
+.heading{
+    display:flex;
+    justify-content: center;
+    font-size:25px;
+    font-weight: 700px;
+    color:white;
+    padding:20px;
+}
