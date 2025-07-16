@@ -46,13 +46,14 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-size: 30px;
     font-weight:700px;
-    color:white;
+    color:#f0f7e8;
 }
 
 .description-paragraph{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-size: 15px;
     color:white;
+    max-width: 500px;
 }
 
 /*We need to add an icon next to the description of a computer with code or human coding*/
