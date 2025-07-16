@@ -62,6 +62,12 @@
     padding:20px;
 }
 
+.content-container{
+    display:flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
 .individual-project{
     display:flex;
     flex-direction: column;
@@ -78,4 +84,3 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-size:25px;
 }
-/*We need to add an icon next to the description of a computer with code or human coding*/
