@@ -65,6 +65,7 @@
 .individual-project{
     display:flex;
     flex-direction: column;
+    justify-content:flex-start;
     color:#f0f7e8;
     width: 300px;
     height: 300px;
@@ -72,4 +73,9 @@
     border-radius: 5px;
 }
 
+.project-headings{
+    color:#f0f7e8;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size:25px;
+}
 /*We need to add an icon next to the description of a computer with code or human coding*/
