@@ -22,6 +22,11 @@
     background-color:#2b5130d8;
 }
 
+.nav-links{
+    color:white;
+    text-decoration: none;
+}
+
 .heading{
     display:flex;
     justify-content: center;
