@@ -85,3 +85,13 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
     font-size:25px;
 }
+
+.see-projects-button{
+    background-color: transparent;
+    padding:10px;
+    font-size: 15px;
+    border: 2px solid #f0f7e8;
+    border-radius: 10px;
+    color:#f0f7e8;
+    width: 200px;
+}
