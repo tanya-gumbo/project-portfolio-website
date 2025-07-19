@@ -11,3 +11,11 @@
     background-color: #376b3ed8;
     min-height: 100vh;
 }
+
+.projects-tile{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    gap:15px;
+}
+
