@@ -107,6 +107,10 @@
     width: 200px;
 }
 
+.see-projects-button:hover{
+    background-color: #26472ad8;
+}
+
 .footer{
     display: flex;
     justify-content: center;
